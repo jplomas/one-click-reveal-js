@@ -1,6 +1,6 @@
 {
-  "name": "makeyourmindup",
-  "version": "2.0.0",
+  "name": "one-click-reveal-js",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "serve": "parcel serve 'src/**/*.html'",
