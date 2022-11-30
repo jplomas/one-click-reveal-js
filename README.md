@@ -4,7 +4,7 @@
 
 ## Use
 
-Click the button above!  A free-tier [Netlify](https://netlify.com) account is all you need to deploy a reveal.js site
+Click the button above!  A free-tier [Netlify](https://netlify.com) account is all you need to deploy a reveal.js site in under 60 seconds 🚀
 
 ## Editing
 
@@ -16,7 +16,7 @@ Change the theme by adjusting the variables in ``src/styles.scss``
 
 ## Demo
 
-Demo deploy at [https://6387cfdf49db455d9ac22259--musical-baklava-399414.netlify.app/](https://6387cfdf49db455d9ac22259--musical-baklava-399414.netlify.app/)
+Demo deploy at [https://musical-baklava-399414.netlify.app/](https://musical-baklava-399414.netlify.app/)
 
 ## Advanced use
 
