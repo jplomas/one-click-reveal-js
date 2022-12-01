@@ -1,6 +1,7 @@
 # one-click-reveal-js
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jplomas/one-click-reveal-js) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjplomas%2Fone-click-reveal-js&output-directory=build%2F)
+Netlify '1-click' deploy: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jplomas/one-click-reveal-js)
+Vercel '1-click' deploy: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjplomas%2Fone-click-reveal-js&output-directory=build%2F)
 
 ## Use
 
