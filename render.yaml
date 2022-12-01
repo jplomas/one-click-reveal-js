@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: one-click-reveal-js
-    env: static
-    buildCommand: npm install && npm run build
-    staticPublishPath: build
-    autoDeploy: true

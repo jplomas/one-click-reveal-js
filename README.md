@@ -4,11 +4,9 @@ Netlify '1-click' deploy: [![Deploy to Netlify](https://www.netlify.com/img/depl
 
 Vercel '1-click' deploy: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjplomas%2Fone-click-reveal-js&output-directory=build%2F)
 
-Render '1-click' deploy: [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jplomas/one-click-reveal-js)
-
 ## Use
 
-Click one of the buttons above!  A free-tier [Netlify](https://netlify.com), [Vercel](https://vercel.com/) or [Render](https://render.com) account is all you need to deploy a reveal.js site in under 60 seconds 🚀
+Click one of the buttons above!  A free-tier [Netlify](https://netlify.com) or [Vercel](https://vercel.com/) account is all you need to deploy a reveal.js site in under 60 seconds 🚀
 
 ## Editing
 
