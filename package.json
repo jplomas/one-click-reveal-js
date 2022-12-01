@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "serve": "parcel serve 'src/**/*.html'",
-    "build": "parcel build 'src/**/*.html' --dist-dir ./build"
+    "build": "parcel build 'src/**/*.html' --dist-dir ./build",
+    "build-gh": "parcel build 'src/**/*.html' --public-url . --dist-dir ./build"
   },
   "author": "JP Lomas",
   "license": "MIT",
