@@ -8,6 +8,8 @@ Vercel '1-click' deploy: [![Deploy with Vercel](https://vercel.com/button)](http
 
 Click one of the buttons above!  A free-tier [Netlify](https://netlify.com) or [Vercel](https://vercel.com/) account is all you need to deploy a reveal.js site in under 60 seconds 🚀
 
+You can also deploy to GitHub Pages _TODO: instructions_
+
 ## Editing
 
 Look in ``src/index.html`` in the repository cloned during the deploy.  Committing changes to this file will re-deploy your site.
@@ -18,7 +20,7 @@ Change the theme by adjusting the variables in ``src/styles.scss``
 
 ## Demo
 
-Demo deploy at [https://musical-baklava-399414.netlify.app/](https://musical-baklava-399414.netlify.app/)
+Demo deploys (via CI/CD) at [https://jplomas.github.io/one-click-reveal-js/](https://jplomas.github.io/one-click-reveal-js/) and [https://musical-baklava-399414.netlify.app/](https://musical-baklava-399414.netlify.app/)
 
 ## Advanced use
 
